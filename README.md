@@ -1,5 +1,3 @@
-## flosha
-
 Projects:
 * https://flosh.in
 * https://phoenixtales.de
