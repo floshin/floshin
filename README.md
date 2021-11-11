@@ -1,4 +1,4 @@
-Projects:
+**Projects**
 * https://flosh.in
 * https://phoenixtales.de
 * https://phoenixthegame.com
