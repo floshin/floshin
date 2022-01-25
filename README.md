@@ -1,5 +1,6 @@
 **Projects**
 * https://flosh.in
+* https://fsoci.al
 * https://phoenixtales.de
 * https://phoenixthegame.com
 * https://gothicarchive.org
